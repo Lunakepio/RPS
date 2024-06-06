@@ -67,3 +67,5 @@ function play() {
 }
 
 play();
+
+console.log("Hello Nadia!");
