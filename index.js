@@ -57,3 +57,4 @@ function play() {
     });
 }
 play();
+console.log('Hellow, world');
